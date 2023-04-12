@@ -1,5 +1,7 @@
 # Pokedex
 
+## [Deploy](https://felipebrenno0.github.io/Pokedex/)
+
 ## Conclusões
 1. Foi feito o uso da [PokéAPI](https://pokeapi.co/)  para fazer a requisição de dados das informações de cada pokemon.
 2. Possui responsividade na páguina.
