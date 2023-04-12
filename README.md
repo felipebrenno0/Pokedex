@@ -7,5 +7,5 @@
 4. Metodo map() foi bem importante para o funcionamento do código, sendo usando algumas vezes.
 
 ## Futuras alterações no código 
-1. Adicionar mais informações em cada pokemon, lembrando uma pokedex do Aplicativo Pokemon Go, onde é informado tamanho, habilidades, e informações adicionais.
-2. Trocar o "Load more" escrito no botão para o icone +. 
+1. Trocar o "Load more" escrito no botão para o icone +. 
+2. Melhorar Popup
